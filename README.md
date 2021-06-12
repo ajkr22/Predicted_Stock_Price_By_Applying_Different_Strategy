@@ -1,0 +1,1 @@
+# Predicted_Stock_Price_By_Applying_Different_Strategy
